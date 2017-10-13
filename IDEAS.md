@@ -18,11 +18,14 @@ Ideas for MonkeyCrypt
 
 **Other stuff**
 + translate the program in other languages
-+ add build instructions
++ add build instructions + build system (Ant, Maven, Gradle)
 + Code examples in python
 + Set MonkeyCrypt icon as the app icon instead of the default java applet icon
 + Pseudo-intelligent assistive agent similar to clippy for Microsoft Office 2003/2007 that helps children to get hints.
 + Put some examples in the help section for each cipher (ex. In Caesar's cipher it would be much easier to understand if a word like 'CAESAR' is converted to corresponding cipher text).
++ Add JUnit tests instead of main method tests
++ Add continuous integration pipeline with Travis CI (https://travis-ci.org/)
+
 
 
 
